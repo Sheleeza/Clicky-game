@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "character": "Jeff and Larry",
+        "image": "https://media3.giphy.com/media/WCsaYadqOJMLC/source.gif",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "character": "Larry point",
+        "image": "https://media3.giphy.com/media/ArWg4s6e3LtJK/source.gif",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "character": "Jerry and Larry",
+        "image": "https://media.giphy.com/media/l0O9zareSGZoeC7gk/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "character": "Larry",
+        "image": "https://media.giphy.com/media/PZXT2SwUjhjRS/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "character": "Larry gets frantic",
+        "image": "https://thumbs.gfycat.com/QuickImpishBichonfrise-size_restricted.gif",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "character": "Blunt talk",
+        "image": "https://media2.giphy.com/media/l4KhKRi4AJQkZqP4Y/source.gif",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "character": "Being Larry",
+        "image": "https://media1.giphy.com/media/2PlKTqil27mRa/source.gif",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "character": "Problem",
+        "image": "https://media.giphy.com/media/l1J9uLBPjqCVIM2GI/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "character": "Sorry",
+        "image": "https://media.giphy.com/media/xUOxf1lup3WGZcXisE/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "character": "You know Larry",
+        "image": "https://media1.giphy.com/media/sHfYGkucJi7zG/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "character": "Pixie",
+        "image": "https://media3.giphy.com/media/3ohhwyPY10gfdaAxAA/source.gif",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "character": "Wow",
+        "image": "https://media.giphy.com/media/3ohhwtl3m0MNLTdAt2/giphy.gif",
+        "clicked": false
+    }
+]
